@@ -14,3 +14,6 @@ A vinyl cutter is a type of computer-controlled machine. Small vinyl cutters loo
     4. Adjust the "pen force" if required .
 * > Now in CutStudio Click "Cutting" .
 * > After cutting Use masking tape to peel out the neccesary part .
+
+### The one I did was :
+<img src="http://jitheeshk.github.io/vinylcutting.github.io/IMG_20170829_101139118.jpg">
